@@ -1,0 +1,903 @@
+﻿path,name,mimeType,type,selected,document_type,reason
+อำเภอไชยปราการ,อำเภอไชยปราการ,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย,อำเภอแม่อาย,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย,ทต.แม่อาย,application/vnd.google-apps.folder,folder,False,,folder
+ล่วงหน้านอกเขตและนอกราชอาณาจักร,ล่วงหน้านอกเขตและนอกราชอาณาจักร,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง,อำเภอฝาง,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ,ตำบลแม่ทะลบ,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ,ตำบลปงตำ,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว,ตำบลแม่สาว,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่อาย,ตำบลแม่อาย,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง,ตำบลแม่นาวาง,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง,ตำบลบ้านหลวง,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลมะลิกา,ตำบลมะลิกา,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน,ตำบลท่าตอน,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ,ตำบลสันต้นหมื้อ,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย,ตำบลแม่อาย,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลมะลิกา,ตำบลมะลิกา,application/vnd.google-apps.folder,folder,False,,folder
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 ชุดที่ 9.pdf,สส. 5ทับ17 ชุดที่ 9.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 ชุดที่ 8.pdf,สส. 5ทับ17 ชุดที่ 8.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 ชุดที่ 7.pdf,สส. 5ทับ17 ชุดที่ 7.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 ชุดที่ 6.pdf,สส. 5ทับ17 ชุดที่ 6.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 ชุดที่ 5.pdf,สส. 5ทับ17 ชุดที่ 5.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 ชุดที่ 4.pdf,สส. 5ทับ17 ชุดที่ 4.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 ชุดที่ 3.pdf,สส. 5ทับ17 ชุดที่ 3.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 ชุดที่ 2.pdf,สส. 5ทับ17 ชุดที่ 2.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 ชุดที่ 1.pdf,สส. 5ทับ17 ชุดที่ 1.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 (บช) ชุดที่ 9.pdf,สส. 5ทับ17 (บช) ชุดที่ 9.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 (บช) ชุดที่ 8.pdf,สส. 5ทับ17 (บช) ชุดที่ 8.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 (บช) ชุดที่ 7.pdf,สส. 5ทับ17 (บช) ชุดที่ 7.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 (บช) ชุดที่ 6.pdf,สส. 5ทับ17 (บช) ชุดที่ 6.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 (บช) ชุดที่ 5.pdf,สส. 5ทับ17 (บช) ชุดที่ 5.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 (บช) ชุดที่ 4.pdf,สส. 5ทับ17 (บช) ชุดที่ 4.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 (บช) ชุดที่ 3.pdf,สส. 5ทับ17 (บช) ชุดที่ 3.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 (บช) ชุดที่ 2.pdf,สส. 5ทับ17 (บช) ชุดที่ 2.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=False
+ล่วงหน้านอกเขตและนอกราชอาณาจักร/สส. 5ทับ17 (บช) ชุดที่ 1.pdf,สส. 5ทับ17 (บช) ชุดที่ 1.pdf,application/pdf,file,False,,is_pdf=True | has_target_5ทับ18=False | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=False
+อำเภอฝาง/ตำบลโป่งน้ำร้อน,ตำบลโป่งน้ำร้อน,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน,ตำบลแม่สูน,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.บ้านแม่ข่า,ทต.บ้านแม่ข่า,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน,ตำบลแม่งอน,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.เวียงฝาง,ทต.เวียงฝาง,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ,ตำบลแม่คะ,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น,ตำบลม่อนปิ่น,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า,ตำบลแม่ข่า,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย,ตำบลสันทราย,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง,ตำบลเวียง,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 18,หน่วยเลือกตั้งที่ 18,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 16,หน่วยเลือกตั้งที่ 16,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 15,หน่วยเลือกตั้งที่ 15,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 17,หน่วยเลือกตั้งที่ 17,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 18,หน่วยเลือกตั้งที่ 18,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 21,หน่วยเลือกตั้งที่ 21,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 20,หน่วยเลือกตั้งที่ 20,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 19,หน่วยเลือกตั้งที่ 19,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 16,หน่วยเลือกตั้งที่ 16,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 15,หน่วยเลือกตั้งที่ 15,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 17,หน่วยเลือกตั้งที่ 17,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 25,หน่วยเลือกตั้งที่ 25,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 21,หน่วยเลือกตั้งที่ 21,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 22,หน่วยเลือกตั้งที่ 22,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 23,หน่วยเลือกตั้งที่ 23,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 24,หน่วยเลือกตั้งที่ 24,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 19,หน่วยเลือกตั้งที่ 19,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 20,หน่วยเลือกตั้งที่ 20,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 17,หน่วยเลือกตั้งที่ 17,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 18,หน่วยเลือกตั้งที่ 18,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 15,หน่วยเลือกตั้งที่ 15,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 16,หน่วยเลือกตั้งที่ 16,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 20,หน่วยเลือกตั้งที่ 20,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 19,หน่วยเลือกตั้งที่ 19,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 18,หน่วยเลือกตั้งที่ 18,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 21,หน่วยเลือกตั้งที่ 21,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 17,หน่วยเลือกตั้งที่ 17,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 16,หน่วยเลือกตั้งที่ 16,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 15,หน่วยเลือกตั้งที่ 15,application/vnd.google-apps.folder,folder,False,,folder
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 20,หน่วยเลือกตั้งที่ 20,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 21,หน่วยเลือกตั้งที่ 21,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 17,หน่วยเลือกตั้งที่ 17,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 18,หน่วยเลือกตั้งที่ 18,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 19,หน่วยเลือกตั้งที่ 19,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 16,หน่วยเลือกตั้งที่ 16,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 15,หน่วยเลือกตั้งที่ 15,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 17,หน่วยเลือกตั้งที่ 17,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 15,หน่วยเลือกตั้งที่ 15,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 16,หน่วยเลือกตั้งที่ 16,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 17,หน่วยเลือกตั้งที่ 17,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 16,หน่วยเลือกตั้งที่ 16,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 15,หน่วยเลือกตั้งที่ 15,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 20,หน่วยเลือกตั้งที่ 20,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 19,หน่วยเลือกตั้งที่ 19,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 17,หน่วยเลือกตั้งที่ 17,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 16,หน่วยเลือกตั้งที่ 16,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 18,หน่วยเลือกตั้งที่ 18,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 15,หน่วยเลือกตั้งที่ 15,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 18,หน่วยเลือกตั้งที่ 18,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 15,หน่วยเลือกตั้งที่ 15,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 17,หน่วยเลือกตั้งที่ 17,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 16,หน่วยเลือกตั้งที่ 16,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 8,หน่วยเลือกตั้งที่ 8,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 9,หน่วยเลือกตั้งที่ 9,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 6,หน่วยเลือกตั้งที่ 6,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 7,หน่วยเลือกตั้งที่ 7,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 5,หน่วยเลือกตั้งที่ 5,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 3,หน่วยเลือกตั้งที่ 3,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 21,หน่วยเลือกตั้งที่ 21,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 4,หน่วยเลือกตั้งที่ 4,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 22,หน่วยเลือกตั้งที่ 22,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 2,หน่วยเลือกตั้งที่ 2,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 20,หน่วยเลือกตั้งที่ 20,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 18,หน่วยเลือกตั้งที่ 18,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 19,หน่วยเลือกตั้งที่ 19,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 17,หน่วยเลือกตั้งที่ 17,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 12,หน่วยเลือกตั้งที่ 12,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 13,หน่วยเลือกตั้งที่ 13,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 16,หน่วยเลือกตั้งที่ 16,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 14,หน่วยเลือกตั้งที่ 14,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 15,หน่วยเลือกตั้งที่ 15,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 10,หน่วยเลือกตั้งที่ 10,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 11,หน่วยเลือกตั้งที่ 11,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 1,หน่วยเลือกตั้งที่ 1,application/vnd.google-apps.folder,folder,False,,folder
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 8/สส.5ทับ18.pdf,สส.5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 7/สส.5ทับ18.pdf,สส.5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 2/สส. 5ทับ 18.pdf,สส. 5ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลแม่ทะลบ/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอไชยปราการ/ตำบลปงตำ/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 6/สส.5ทับ18 บช หน่วยที่ 6.pdf,สส.5ทับ18 บช หน่วยที่ 6.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 9/สส.5ทับ18 บช หน่วยที่ 9.pdf,สส.5ทับ18 บช หน่วยที่ 9.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 8/สส.5ทับ18 บช หน่วยที่ 8.pdf,สส.5ทับ18 บช หน่วยที่ 8.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 7/สส.5ทับ18 บช หน่วยที่ 7.pdf,สส.5ทับ18 บช หน่วยที่ 7.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 18/สส.5ทับ18 บช หน่วยที่ 18.pdf,สส.5ทับ18 บช หน่วยที่ 18.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 5/สส.5ทับ18 บช หน่วยที่ 5.pdf,สส.5ทับ18 บช หน่วยที่ 5.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 4/สส.5ทับ18 บช หน่วยที่ 4.pdf,สส.5ทับ18 บช หน่วยที่ 4.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 3/สส.5ทับ18 บช หน่วยที่ 3.pdf,สส.5ทับ18 บช หน่วยที่ 3.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 2/สส.5ทับ18 บช หน่วยที่ 2.pdf,สส.5ทับ18 บช หน่วยที่ 2.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 16/สส.5ทับ18 บช หน่วยที่ 16.pdf,สส.5ทับ18 บช หน่วยที่ 16.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 15/สส.5ทับ18 บช หน่วยที่ 15.pdf,สส.5ทับ18 บช หน่วยที่ 15.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 17/สส.5ทับ18 บช หน่วยที่ 17.pdf,สส.5ทับ18 บช หน่วยที่ 17.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 14/สส.5ทับ18 บช หน่วยที่ 14.pdf,สส.5ทับ18 บช หน่วยที่ 14.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 13/สส.5ทับ18 บช หน่วยที่ 13.pdf,สส.5ทับ18 บช หน่วยที่ 13.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 10/สส.5ทับ18 บช หน่วยที่ 10.pdf,สส.5ทับ18 บช หน่วยที่ 10.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 12/สส.5ทับ18 บช หน่วยที่ 12.pdf,สส.5ทับ18 บช หน่วยที่ 12.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 11/สส.5ทับ18 บช หน่วยที่ 11.pdf,สส.5ทับ18 บช หน่วยที่ 11.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 1/สส.5ทับ18 บช หน่วยที่ 1.pdf,สส.5ทับ18 บช หน่วยที่ 1.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่สาว/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 9/ส.ส.5 ทับ 18 บช. หน่วย 9.pdf,ส.ส.5 ทับ 18 บช. หน่วย 9.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 8/ส.ส.5 ทับ 18 บช. หน่วย 8.pdf,ส.ส.5 ทับ 18 บช. หน่วย 8.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 แม่นาวาง หน่วย 8.pdf,สส. 5ทับ18 แม่นาวาง หน่วย 8.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 4/ส.ส.5 ทับ 18 บช. หน่วย 4.pdf,ส.ส.5 ทับ 18 บช. หน่วย 4.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 7/ส.ส.5 ทับ 18 บช. หน่วย 7.pdf,ส.ส.5 ทับ 18 บช. หน่วย 7.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 5/ส.ส.5 ทับ 18 บช. หน่วย 5.pdf,ส.ส.5 ทับ 18 บช. หน่วย 5.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 6/ส.ส.5 ทับ 18 บช. หน่วย 6.pdf,ส.ส.5 ทับ 18 บช. หน่วย 6.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 3/ส.ส.5 ทับ 18 บช. หน่วย 3.pdf,ส.ส.5 ทับ 18 บช. หน่วย 3.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 2/ส.ส.5 ทับ 18 บช. หน่วย 2.pdf,ส.ส.5 ทับ 18 บช. หน่วย 2.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 18/ส.ส.5 ทับ 18 บช. หน่วย 18.pdf,ส.ส.5 ทับ 18 บช. หน่วย 18.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 21/ส.ส.5 ทับ 18 บช. หน่วย 21.pdf,ส.ส.5 ทับ 18 บช. หน่วย 21.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 21/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 20/ส.ส.5 ทับ 18 บช. หน่วย 20.pdf,ส.ส.5 ทับ 18 บช. หน่วย 20.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 20/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 19/ส.ส.5 ทับ 18 บช. หน่วย 19.pdf,ส.ส.5 ทับ 18 บช. หน่วย 19.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 16/ส.ส.5 ทับ 18 บช. หน่วย 16.pdf,ส.ส.5 ทับ 18 บช. หน่วย 16.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 15/ส.ส.5 ทับ 18 บช. หน่วย 15.pdf,ส.ส.5 ทับ 18 บช. หน่วย 15.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 17/ส.ส.5 ทับ 18 บช. หน่วย 17.pdf,ส.ส.5 ทับ 18 บช. หน่วย 17.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 14/ส.ส.5 ทับ 18 บช. หน่วย 14.pdf,ส.ส.5 ทับ 18 บช. หน่วย 14.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 13/ส.ส.5 ทับ 18 บช. หน่วย 13.pdf,ส.ส.5 ทับ 18 บช. หน่วย 13.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18 แม่นาวาง หน่วย 13.pdf,สส. 5ทับ18 แม่นาวาง หน่วย 13.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 10/ส.ส.5 ทับ 18 บช. หน่วย 10.pdf,ส.ส.5 ทับ 18 บช. หน่วย 10.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 12/ส.ส.5 ทับ 18 บช. หน่วย 12.pdf,ส.ส.5 ทับ 18 บช. หน่วย 12.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 11/ส.ส.5 ทับ 18 บช. หน่วย 11.pdf,ส.ส.5 ทับ 18 บช. หน่วย 11.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 1/ส.ส.5 ทับ 18 บช. หน่วย 1.pdf,ส.ส.5 ทับ 18 บช. หน่วย 1.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลแม่นาวาง/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 9/สส.5ทับ18 บช หน่วยที่ 9.pdf,สส.5ทับ18 บช หน่วยที่ 9.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 8/สส.5ทับ18 บช หน่วยที่ 8.pdf,สส.5ทับ18 บช หน่วยที่ 8.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 4/สส.5ทับ18 บช หน่วยที่ 4.pdf,สส.5ทับ18 บช หน่วยที่ 4.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 7/สส.5ทับ18 บช หน่วยที่ 7.pdf,สส.5ทับ18 บช หน่วยที่ 7.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 5/สส.5ทับ18 บช หน่วยที่ 5.pdf,สส.5ทับ18 บช หน่วยที่ 5.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 6/สส.5ทับ18 บช หน่วยที่ 6.pdf,สส.5ทับ18 บช หน่วยที่ 6.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 14/สส.5ทับ18 บช หน่วยที่ 14.pdf,สส.5ทับ18 บช หน่วยที่ 14.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 3/สส.5ทับ18 บช หน่วยที่ 3.pdf,สส.5ทับ18 บช หน่วยที่ 3.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 2/สส.5ทับ18 บช หน่วยที่ 2.pdf,สส.5ทับ18 บช หน่วยที่ 2.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 13/สส.5ทับ18 บช หน่วยที่ 13.pdf,สส.5ทับ18 บช หน่วยที่ 13.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 12/สส.5ทับ18 บช หน่วยที่ 12.pdf,สส.5ทับ18 บช หน่วยที่ 12.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 10/สส.5ทับ18 บช หน่วยที่ 10.pdf,สส.5ทับ18 บช หน่วยที่ 10.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 11/สส.5ทับ18 บช หน่วยที่ 11.pdf,สส.5ทับ18 บช หน่วยที่ 11.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 1/สส.5ทับ18 บช หน่วยที่ 1.pdf,สส.5ทับ18 บช หน่วยที่ 1.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลบ้านหลวง/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 25/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 25/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 21/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 21/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 22/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 22/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 23/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 23/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 24/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 24/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 20/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 20/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลท่าตอน/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอแม่อาย/ตำบลสันต้นหมื้อ/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลแม่อาย/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 20/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 20/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 21/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 21/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลโป่งน้ำร้อน/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 9/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 9/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 9).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 9).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 7/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 7/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 7).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 7).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 8/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 8/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 8).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 8).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 6/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 6/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 6).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 6).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 4/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 4/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 4).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 4).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 20/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 20/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 20).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 20).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 5/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 5/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 5).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 5).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 21/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 21/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 21).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 21).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 3/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 3/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 3).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 3).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 17/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 17/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 17).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 17).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 2/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 2/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 2).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 2).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 18/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 18/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 18).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 18).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 19/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 19/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 19).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 19).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 16/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 16/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 16).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 16).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 12/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 12/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 12).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 12).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 13/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 13/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 13).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 13).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 14/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 14/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 14).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 14).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 11/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 11/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 11).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 11).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 15/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 15/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 15).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 15).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 1/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 1/ส.ส. 5- 18 (แม่สูน หน่วยที่ 1).pdf,ส.ส. 5- 18 (แม่สูน หน่วยที่ 1).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 10/สส. 5 ทับ 18 (บช).pdf,สส. 5 ทับ 18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 10/ส.ส. 5 - 18 (แม่สูน หน่วยที่ 10).pdf,ส.ส. 5 - 18 (แม่สูน หน่วยที่ 10).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 3/ส.ส. 5-18 (บช) ทต.บ้านแม่ข่า หน่วยเลือกตั้ง ที่ 3.pdf,ส.ส. 5-18 (บช) ทต.บ้านแม่ข่า หน่วยเลือกตั้ง ที่ 3.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 3/ส.ส.5-18(ทต.บ้านแม่ข่า หน่วยที่ 3).pdf,ส.ส.5-18(ทต.บ้านแม่ข่า หน่วยที่ 3).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 1/ส.ส. 5-18 (บช) ทต.บ้านแม่ข่า หน่วยเลือกตั้ง ที่ 1.pdf,ส.ส. 5-18 (บช) ทต.บ้านแม่ข่า หน่วยเลือกตั้ง ที่ 1.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 1/ส.ส.5-18(ทต.บ้านแม่ข่า หน่วยที่ 1).pdf,ส.ส.5-18(ทต.บ้านแม่ข่า หน่วยที่ 1).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 2/ส.ส. 5-18 (บช) ทต.บ้านแม่ข่า หน่วยเลือกตั้ง ที่ 2.pdf,ส.ส. 5-18 (บช) ทต.บ้านแม่ข่า หน่วยเลือกตั้ง ที่ 2.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 2/ส.ส.5-18(ทต.บ้านแม่ข่า หน่วยที่ 2).pdf,ส.ส.5-18(ทต.บ้านแม่ข่า หน่วยที่ 2).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.บ้านแม่ข่า/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 7/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 7.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 7.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 7/ส.ส.5-18 (แม่งอน หน่วยที่ 7).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 7).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 9/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 9.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 9.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 9/ส.ส.5-18 (แม่งอน หน่วยที่ 9).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 9).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 8/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 8.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 8.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 8/ส.ส.5-18 (แม่งอน หน่วยที่ 8).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 8).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 5/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 5.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 5.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 5/ส.ส.5-18 (แม่งอน หน่วยที่ 5).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 5).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 6/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 6.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 6.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 6/ส.ส.5-18 (แม่งอน หน่วยที่ 6).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 6).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 4/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 4.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 4.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 4/ส.ส.5-18 (แม่งอน หน่วยที่ 4).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 4).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 2/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 2.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 2.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 2/ส.ส.5-18 (แม่งอน หน่วยที่ 2).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 2).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 3/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 3.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 3.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 3/ส.ส.5-18 (แม่งอน หน่วยที่ 3).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 3).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 17/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 17.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 17.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 17/ส.ส.5-18 (แม่งอน หน่วยที่ 17).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 17).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 14/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 14.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 14.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 14/ส.ส.5-18 (แม่งอน หน่วยที่ 14).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 14).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 15/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 15.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 15.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 15/ส.ส.5-18 (แม่งอน หน่วยที่ 15).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 15).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 16/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 16.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 16.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 16/ส.ส.5-18 (แม่งอน หน่วยที่ 16).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 16).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 13/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 13.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 13.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 13/ส.ส.5-18 (แม่งอน หน่วยที่ 13).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 13).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 12/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 12.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 12.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 12/ส.ส.5-18 (แม่งอน หน่วยที่ 12).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 12).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 10/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 10.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 10.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 10/ส.ส.5-18 (แม่งอน หน่วยที่ 10).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 10).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 11/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 11.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 11.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 11/ส.ส.5-18 (แม่งอน หน่วยที่ 11).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 11).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 1/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 1.pdf,ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 1.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 1/ส.ส.5-18 (แม่งอน หน่วยที่ 1).pdf,ส.ส.5-18 (แม่งอน หน่วยที่ 1).pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 20/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 20/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 9/สส. 5 ทับ 18.pdf,สส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 6/สส. 5 ทับ 18.pdf,สส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 5/สส. 5 ทับ 18.pdf,สส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 8/สส. 5 ทับ 18.pdf,สส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 7/สส. 5 ทับ 18.pdf,สส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 10/สส. 5 ทับ 18.pdf,สส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 3/สส. 5 ทับ 18.pdf,สส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 4/สส. 5 ทับ 18.pdf,สส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 11/สส. 5 ทับ 18.pdf,สส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 1/สส. 5 ทับ 18.pdf,สส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลแม่ข่า/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 9/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 9/ส.ส.5-18 (บช) สันทราย หน่วยที่ 9.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 9.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 8/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 8/ส.ส.5-18 (บช) สันทราย หน่วยที่ 8.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 8.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 6/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 6/ส.ส.5-18 (บช) สันทราย หน่วยที่ 6.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 6.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 7/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 7/ส.ส.5-18 (บช) สันทราย หน่วยที่ 7.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 7.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 3/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 3/ส.ส.5-18 (บช) สันทราย หน่วยที่ 3.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 3.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 18/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 18/ส.ส.5-18 (บช) สันทราย หน่วยที่ 18.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 18.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 5/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 5/ส.ส.5-18 (บช) สันทราย หน่วยที่ 5.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 5.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 4/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 4/ส.ส.5-18 (บช) สันทราย หน่วยที่ 4.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 4.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 2/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 2/ส.ส.5-18 (บช) สันทราย หน่วยที่ 2.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 2.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 14/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 14/ส.ส.5-18 (บช) สันทราย หน่วยที่ 14.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 14.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 15/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 15/ส.ส.5-18 (บช) สันทราย หน่วยที่ 15.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 15.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 17/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 17/ส.ส.5-18 (บช) สันทราย หน่วยที่ 17.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 17.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 16/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 16/ส.ส.5-18 (บช) สันทราย หน่วยที่ 16.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 16.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 13/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 13/ส.ส.5-18 (บช) สันทราย หน่วยที่ 13.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 13.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 10/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 10/ส.ส.5-18 (บช) สันทราย หน่วยที่ 10.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 10.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 1/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 1/ส.ส.5-18 (บช) สันทราย หน่วยที่ 1.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 1.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 12/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 12/ส.ส.5-18 (บช) สันทราย หน่วยที่ 12.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 12.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 11/ส.ส. 5 ทับ 18.pdf,ส.ส. 5 ทับ 18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 11/ส.ส.5-18 (บช) สันทราย หน่วยที่ 11.pdf,ส.ส.5-18 (บช) สันทราย หน่วยที่ 11.pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 8/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 9/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 7/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 5/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 3/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 21/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 21/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 22/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 22/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 20/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 20/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 12/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 13/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 16/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 14/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 15/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 10/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 11/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18.pdf,สส. 5ทับ18.pdf,application/pdf,file,True,แบ่งเขต,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=False | document_type=แบ่งเขต | selected=True
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 1/สส. 5ทับ18 (บช).pdf,สส. 5ทับ18 (บช).pdf,application/pdf,file,True,บัญชีรายชื่อ,is_pdf=True | has_target_5ทับ18=True | has_ss=True | has_bch=True | document_type=บัญชีรายชื่อ | selected=True

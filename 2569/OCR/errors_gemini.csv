@@ -1,0 +1,19 @@
+﻿source_pdf,page,ประเภทเอกสาร,is_bch,error
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 18/สส. 5ทับ18.pdf,1.0,แบ่งเขต,False,Cannot parse Gemini JSON response
+ทต.แม่อาย/ตำบลมะลิกา/หน่วยเลือกตั้งที่ 17/สส. 5ทับ18 (บช).pdf,2.0,บัญชีรายชื่อ,True,Cannot parse Gemini JSON response
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 9/สส. 5 ทับ 18 (บช).pdf,3.0,บัญชีรายชื่อ,True,Cannot parse Gemini JSON response
+อำเภอฝาง/ตำบลแม่สูน/หน่วยเลือกตั้งที่ 15/สส. 5 ทับ 18 (บช).pdf,3.0,บัญชีรายชื่อ,True,Cannot parse Gemini JSON response
+อำเภอฝาง/ตำบลแม่งอน/หน่วยเลือกตั้งที่ 3/ส.ส. 5-18 (บช) แม่งอน หน่วยเลือกตั้ง ที่ 3.pdf,4.0,บัญชีรายชื่อ,True,Cannot parse Gemini JSON response
+อำเภอฝาง/ทต.เวียงฝาง/หน่วยเลือกตั้งที่ 6/สส. 5ทับ18 (บช).pdf,3.0,บัญชีรายชื่อ,True,Cannot parse Gemini JSON response
+อำเภอฝาง/ตำบลแม่คะ/หน่วยเลือกตั้งที่ 4/สส. 5ทับ18 (บช).pdf,3.0,บัญชีรายชื่อ,True,Cannot parse Gemini JSON response
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 20/สส. 5ทับ18 (บช).pdf,3.0,บัญชีรายชื่อ,True,Cannot parse Gemini JSON response
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18.pdf,1.0,แบ่งเขต,False,Cannot parse Gemini JSON response
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18.pdf,2.0,แบ่งเขต,False,"parse:แบ่งเขต:สส. 5ทับ18.pdf:page_002 failed after 6 attempts: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18.pdf,,แบ่งเขต,False,No page could be parsed successfully
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 19/สส. 5ทับ18 (บช).pdf,,บัญชีรายชื่อ,True,"ocr:page_001.png failed after 6 attempts: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18.pdf,,แบ่งเขต,False,"ocr:page_001.png failed after 6 attempts: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+อำเภอฝาง/ตำบลม่อนปิ่น/หน่วยเลือกตั้งที่ 2/สส. 5ทับ18 (บช).pdf,,บัญชีรายชื่อ,True,"ocr:page_001.png failed after 6 attempts: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 16/ส.ส. 5 ทับ 18.pdf,,แบ่งเขต,False,"ocr:page_002.png failed after 6 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 10/ส.ส. 5 ทับ 18.pdf,,แบ่งเขต,False,"ocr:page_002.png failed after 6 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+อำเภอฝาง/ตำบลสันทราย/หน่วยเลือกตั้งที่ 11/ส.ส.5-18 (บช) สันทราย หน่วยที่ 11.pdf,3.0,บัญชีรายชื่อ,True,Cannot parse Gemini JSON response
+อำเภอฝาง/ตำบลเวียง/หน่วยเลือกตั้งที่ 22/สส. 5ทับ18 (บช).pdf,2.0,บัญชีรายชื่อ,True,Cannot parse Gemini JSON response
