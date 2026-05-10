@@ -17,6 +17,11 @@
 - Statistical insight เช่น margin, turnout, invalid ballot, no vote, ticket splitting และ education level analysis
 
 ---
+
+## Video Presentation
+https://youtu.be/rw41B6SOBWw?si=Hxl9cvcgSVVl5P-C
+
+---
 ```
 
 > หมายเหตุ: Dashboard จะอ่าน `final_with_ballots_2566_2569_combined_clean.csv` เป็นหลัก ถ้าไม่พบไฟล์นี้จะ fallback ไปใช้ `final_2566_2569_combined_clean.csv`
